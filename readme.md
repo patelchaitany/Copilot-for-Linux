@@ -24,9 +24,9 @@ Ensure you have the following installed:
 2. **Install the required packages:**
    ```bash
    pip install -r requirements.txt
-    ```
+   ```
 3. **Install Chromadb:**
-    ``````bash
+    ```bash
     Run Chromadb On localhost and port 8000
     ```
 ### Usage
