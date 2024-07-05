@@ -17,8 +17,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/patelchaitany/Copilot-for-Linux
+   cd Copilot-for-Linux
    ```
 
 2. **Install the required packages:**
